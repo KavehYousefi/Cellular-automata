@@ -2602,7 +2602,9 @@
       ;; Continue with the NEXT-LINE's pattern as the CURRENT-LINE.
       (setf current-line (copy-seq next-line))
       ;; Prepare a fresh blank NEXT-LINE for the coming iteration.
-      (setf next-line    (fill next-line 0)))))
+      (setf next-line    (fill next-line 0))))
+  
+  (values))
 
 
 
