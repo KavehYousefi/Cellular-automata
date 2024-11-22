@@ -1132,7 +1132,7 @@
 ;;   | 7 | | 6 | | 5 | | 4 | | 3 | | 2 | | 1 | | 0 |
 ;;   +---+ +---+ +---+ +---+ +---+ +---+ +---+ +---+
 ;; 
-;; Proceeding in a dextraosinistral airt, that is, from the bit at the
+;; Proceeding in a dextrosinistral airt, that is, from the bit at the
 ;; right-hand end, the position zero (0), to the leftmost bit at the
 ;; position seven (7), the value encoded by the bit ascends in its
 ;; magnitude:
